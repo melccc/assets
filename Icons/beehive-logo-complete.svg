@@ -16,9 +16,9 @@
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="beehive-logo-complete.svg"
-   inkscape:export-filename="C:\Users\efreitas\Documents\fonts\desenho.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96">
+   inkscape:export-filename="C:\Users\efreitas\Desktop\logo_complete.png"
+   inkscape:export-xdpi="110.78764"
+   inkscape:export-ydpi="110.78764">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.72696687"
-     inkscape:cx="389.17786"
-     inkscape:cy="460.66582"
+     inkscape:zoom="1.0280864"
+     inkscape:cx="534.84564"
+     inkscape:cy="377.49123"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -54,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -90,7 +90,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 93.090378,61.749086 0.01,43.922334 -38.032856,21.96982 -38.042853,-21.95251 -0.01,-43.922328 38.032856,-21.969823 z"
-       style="fill:#ef4f07;fill-opacity:1;stroke:#000000;stroke-width:1.16791487;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ef4f07;fill-opacity:1;stroke:none;stroke-width:1.16791487;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="matrix(0.38930135,0,0,0.33718918,64.305345,189.38901)" />
     <path
        sodipodi:type="star"
@@ -106,7 +106,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 93.090378,61.749086 0.01,43.922334 -38.032856,21.96982 -38.042853,-21.95251 -0.01,-43.922328 38.032856,-21.969823 z"
-       style="fill:#1441a0;fill-opacity:1;stroke:#000000;stroke-width:1.16791487;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#1441a0;fill-opacity:1;stroke:none;stroke-width:1.16791487;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="matrix(0.38930135,0,0,0.33718918,19.857986,167.17672)" />
     <path
        sodipodi:type="star"
@@ -122,7 +122,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 93.090378,61.749086 0.01,43.922334 -38.032856,21.96982 -38.042853,-21.95251 -0.01,-43.922328 38.032856,-21.969823 z"
-       style="fill:#efa007;fill-opacity:1;stroke:#000000;stroke-width:1.16791487;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#efa007;fill-opacity:1;stroke:none;stroke-width:1.16791487;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="matrix(0.38930135,0,0,0.33718918,49.495215,167.17019)" />
     <path
        sodipodi:type="star"
@@ -138,7 +138,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 93.090378,61.749086 0.01,43.922334 -38.032856,21.96982 -38.042853,-21.95251 -0.01,-43.922328 38.032856,-21.969823 z"
-       style="fill:#05a166;fill-opacity:1;stroke:#000000;stroke-width:1.16791487;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#05a166;fill-opacity:1;stroke:none;stroke-width:1.16791487;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="matrix(0.38930135,0,0,0.33718918,64.297565,144.95207)" />
     <flowRoot
        xml:space="preserve"
