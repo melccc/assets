@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32px"
-   height="32px"
-   viewBox="0 0 32 32"
+   width="11.132811"
+   height="21.452745"
+   viewBox="0 0 11.132811 21.452745"
    version="1.1"
    id="SVGRoot"
    sodipodi:docname="flag.svg"
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.627416"
-     inkscape:cx="11.599691"
-     inkscape:cy="13.39175"
+     inkscape:cx="-4.1282833"
+     inkscape:cy="13.457894"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -39,7 +39,9 @@
      inkscape:grid-bbox="true">
     <inkscape:grid
        type="xygrid"
-       id="grid1706" />
+       id="grid1706"
+       originx="-6.9333336"
+       originy="0.06614378" />
   </sodipodi:namedview>
   <metadata
      id="metadata866">
@@ -49,14 +51,15 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-6.9333333,-10.613398)">
     <path
        sodipodi:type="star"
        style="opacity:1;fill:#ff0600;fill-opacity:1;fill-rule:nonzero;stroke:#151515;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"

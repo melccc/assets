@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="105.83334mm"
-   height="105.83334mm"
-   viewBox="0 0 105.83334 105.83334"
+   width="139.20631mm"
+   height="121.81739mm"
+   viewBox="0 0 139.20631 121.81739"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="CheckMark.svg">
+   sodipodi:docname="WarningMark.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="-97.949989"
-     inkscape:cy="189.53465"
+     inkscape:cx="246.0281"
+     inkscape:cy="242.06483"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -39,8 +39,8 @@
     <inkscape:grid
        type="xygrid"
        id="grid1587"
-       originx="-95.583327"
-       originy="-52.083328" />
+       originx="-78.896843"
+       originy="-53.174964" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -50,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -58,39 +58,56 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-95.583328,-139.08333)"
+     transform="translate(-78.896844,-122.00765)"
      style="display:inline;opacity:1">
-    <rect
-       style="opacity:1;fill:#3459a8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.03527778;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect3757"
-       width="105.83334"
-       height="105.83334"
-       x="95.583328"
-       y="139.08333"
-       ry="17.687506" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:3.19595599;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path826"
+       sodipodi:sides="3"
+       sodipodi:cx="148.5"
+       sodipodi:cy="202.08656"
+       sodipodi:r1="76.763527"
+       sodipodi:r2="38.381763"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.52359875"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 148.5,125.32304 66.47916,115.14529 -132.958324,0 z"
+       inkscape:transform-center-y="-19.190891"
+       inkscape:transform-center-x="2.9203098e-06" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
      style="display:inline"
-     transform="translate(-95.583328,-52.083328)" />
+     transform="translate(-78.896844,-35.007648)" />
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Layer 3"
      style="display:inline"
-     transform="translate(-95.583328,-52.083328)">
+     transform="translate(-78.896844,-35.007648)">
     <path
-       style="display:inline;opacity:1;fill:#dedede;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.00559896;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 178.30076,57.294245 -39.06154,83.768255 -20.84605,-36.10655 -6.5749,3.79608 23.50418,40.71046 -0.0163,0.0347 6.88067,3.20857 42.99492,-92.202935 z"
-       id="rect966"
-       inkscape:connector-curvature="0" />
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 143.07604,59.1875 h 10.84792 l -2.91042,71.4375 h -5.29167 z"
+       id="rect830"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect834"
+       width="7.9375"
+       height="7.9375"
+       x="144.53125"
+       y="137.23958" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Layer 4"
      style="display:inline"
-     transform="translate(-95.583328,-52.083328)" />
+     transform="translate(-78.896844,-35.007648)" />
 </svg>

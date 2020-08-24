@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32px"
-   height="32px"
-   viewBox="0 0 32 32"
+   width="9.6833906"
+   height="5.3759642"
+   viewBox="0 0 9.6833906 5.3759642"
    version="1.1"
    id="SVGRoot"
    sodipodi:docname="triangle_eyes.svg"
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627416"
-     inkscape:cx="9.232189"
-     inkscape:cy="14.108604"
+     inkscape:zoom="11.313708"
+     inkscape:cx="-16.282407"
+     inkscape:cy="-3.1598191"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -39,7 +39,9 @@
      inkscape:grid-bbox="true">
     <inkscape:grid
        type="xygrid"
-       id="grid1706" />
+       id="grid1706"
+       originx="-12.387427"
+       originy="-11.780418" />
   </sodipodi:namedview>
   <metadata
      id="metadata866">
@@ -49,14 +51,15 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-12.387427,-14.843618)">
     <path
        style="opacity:1;fill:#14110d;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.13377701;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 13.81913,14.910507 A 1.3656896,2.6208426 0 0 0 12.454316,17.531601 1.3656896,2.6208426 0 0 0 13.81913,20.152694 1.3656896,2.6208426 0 0 0 15.162576,18 l -1.207232,-0.633431 1.16717,-0.611588 A 1.3656896,2.6208426 0 0 0 13.81913,14.910507 Z m 6.837424,0 A 1.3656896,2.6208426 0 0 0 19.29174,17.531601 1.3656896,2.6208426 0 0 0 20.656554,20.152694 1.3656896,2.6208426 0 0 0 22,18 l -1.207232,-0.633431 1.16717,-0.611588 a 1.3656896,2.6208426 0 0 0 -1.303384,-1.844474 z"

@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="170.37151mm"
-   height="156.18039mm"
-   viewBox="0 0 170.37151 156.18039"
+   width="100.91476mm"
+   height="122.60492mm"
+   viewBox="0 0 100.91476 122.60492"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="heart.svg">
+   sodipodi:docname="puzzle.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -25,22 +25,26 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="339.50294"
-     inkscape:cy="65.748717"
+     inkscape:zoom="1.0684127"
+     inkscape:cx="96.783601"
+     inkscape:cy="180.71573"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     showgrid="true"
+     inkscape:current-layer="layer4"
+     showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
     <inkscape:grid
        type="xygrid"
        id="grid1587"
-       originx="-63.314251"
-       originy="-26.9098" />
+       originx="-98.042599"
+       originy="-54.542308" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -50,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -58,30 +62,31 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-63.314252,-113.90981)"
-     style="display:inline;opacity:1">
-    <path
-       style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.01818182;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 218.6564,128.93947 a 50,48.18182 45 0 0 -69.42487,-1.28586 50,48.18182 45 0 0 -0.34568,0.37198 l -0.0391,-0.0391 -0.70816,0.70816 a 48.18182,50 45 0 0 -0.37016,-0.41035 48.18182,50 45 0 0 -69.424508,1.2855 48.18182,50 45 0 0 -1.285868,69.42488 48.18182,50 45 0 0 0.371985,0.34567 l -0.0391,0.0391 70.710751,70.71075 0.71364,-0.71364 0.0311,0.0311 70.5697,-70.5697 a 50,48.18182 45 0 0 0.52582,-0.47393 50,48.18182 45 0 0 -1.28551,-69.42452 z"
-       id="path2483"
-       inkscape:connector-curvature="0" />
-  </g>
+     transform="translate(-98.042594,-119.85277)"
+     style="display:inline;opacity:0.28800001" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
      style="display:inline"
-     transform="translate(-63.314252,-26.909809)" />
+     transform="translate(-98.042594,-32.852775)" />
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Layer 3"
      style="display:inline"
-     transform="translate(-63.314252,-26.909809)" />
+     transform="translate(-98.042594,-32.852775)" />
   <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Layer 4"
      style="display:inline"
-     transform="translate(-63.314252,-26.909809)" />
+     transform="translate(-98.042594,-32.852775)">
+    <path
+       style="opacity:1;fill:#1441a0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8.8587904;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 561.25977,124.16797 0.004,81.97656 h -0.008 z m 0,0 c -120.57754,1.88743 -81.912,40.0152 -64.68946,81.97656 H 370.55469 V 587.55664 H 751.96484 V 460.17578 c -43.30286,16.34691 -83.49636,60.55735 -85.43554,-63.32617 1.93919,-123.88408 42.13245,-79.67095 85.43554,-63.32422 V 206.14453 H 625.94922 c 17.22254,-41.96136 55.88808,-80.08913 -64.68945,-81.97656 z m 105.26953,272.68164 85.43554,0.006 v -0.0117 z"
+       transform="scale(0.26458333)"
+       id="rect858"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>

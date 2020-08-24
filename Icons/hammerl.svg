@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="118.97217mm"
+   height="165.58963mm"
+   viewBox="0 0 118.97217 165.58963"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="hammerl.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="166.27658"
+     inkscape:cy="276.84031"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1587"
+       originx="-88.416434"
+       originy="-25.135409" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-88.416435,-106.27496)"
+     style="display:inline;opacity:1">
+    <rect
+       style="display:inline;opacity:1;fill:#28170b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.1262747;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3722-6"
+       width="4.8415833"
+       height="21.833336"
+       x="-183.83746"
+       y="137.58333"
+       ry="0.86244565"
+       transform="rotate(-90)" />
+    <path
+       transform="rotate(-90)"
+       style="display:inline;opacity:1;fill:#28170b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54935575;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -271.4202,140.75833 92.42938,2.11667 c 0.24613,0.006 0.44439,0.1982 0.44439,0.44439 v 10.3612 c 0,0.2462 -0.19826,0.43875 -0.44439,0.44439 l -92.42938,2.11667 c -0.24614,0.006 -0.44439,-0.19819 -0.44439,-0.44439 v -14.59454 c 0,-0.24619 0.19825,-0.45002 0.44439,-0.44439 z"
+       id="rect3722-6-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssss" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="display:inline"
+     transform="translate(-88.416435,-19.274956)">
+    <rect
+       transform="translate(0,-87.000001)"
+       style="display:inline;opacity:1;fill:#542504;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.07039547;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3722-3"
+       width="99.66333"
+       height="68.791649"
+       x="98.774162"
+       y="111.56712" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 3"
+     style="display:inline"
+     transform="translate(-88.416435,-19.274956)">
+    <rect
+       style="display:inline;opacity:1;fill:#28170b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.444731;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3722"
+       width="12.457923"
+       height="79.375"
+       x="194.93068"
+       y="19.274956"
+       ry="3.1354177" />
+    <rect
+       style="display:inline;opacity:1;fill:#28170b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.444731;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3722-39"
+       width="12.457923"
+       height="79.375"
+       x="88.416435"
+       y="19.274963"
+       ry="3.1354179" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Layer 4"
+     style="display:inline"
+     transform="translate(-88.416435,-19.274956)" />
+</svg>
